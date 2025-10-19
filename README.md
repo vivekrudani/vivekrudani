@@ -3,7 +3,6 @@
 I'm a **Frontend Developer** and **M.Sc. Computational Engineering** student at FAU Erlangen-Nürnberg.  
 I specialize in **React.js, Next.js, React Native, and TypeScript**, building AI-driven and user-focused applications.
 
-🔭 Currently working on: [Mumbi App](#)  
 🌱 Learning more about Genkit & AI-powered UX  
 💬 Ask me about frontend architecture and clean UI design  
 
